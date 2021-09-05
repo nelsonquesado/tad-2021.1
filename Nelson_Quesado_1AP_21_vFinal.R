@@ -356,4 +356,4 @@ qpois(.95, desc2$media) # 9 assentos garantem que, em 95% das vezes, nenhuma pes
 
 #### FIM DA RESOLUCAO DA AVALIACAO
 
-# Subindo no github
+# Subindo no github.
